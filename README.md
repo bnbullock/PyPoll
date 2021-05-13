@@ -1,2 +1,2 @@
 # PyPoll
-Analysis of an Voter turn out by county
+Analysis of Voter turn out by county for a recent election
