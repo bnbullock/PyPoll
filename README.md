@@ -1,4 +1,3 @@
-
 # PyPoll Election Analysis
 
 ## Project Overview
@@ -35,3 +34,7 @@ The resultant analysis of the election is as follows:
   - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes
 - The winner of the election was:
   - Diana DeGette
+
+## Challenge Overview
+
+## Challenge summary
