@@ -42,5 +42,5 @@ As can be seen by the about election summary results this program provided the e
 
 The election results are contained in the "analysis" folder and is named "election_analysis.txt". The same output can be seen in the screen shot below, which was also a requirement of this analysis.
 
-![Election Results](Resources/Screen_output.png)
+![Screen Output](Resources/Screen_Output.png)
 
