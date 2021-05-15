@@ -1,7 +1,7 @@
 # PyPoll Election Analysis
 
 ## Project Overview
-Complete an election audit for a recent election and provide the results as follows.
+Complete an election audit for a recent election and provide the following deliverables.
 
 1. Calculate the total number of votes
 2. Get a complete list of Counties that voted
@@ -37,4 +37,10 @@ The resultant analysis of the election is as follows:
 
 ## Challenge Overview
 
+As can be seen by the about election summary results this program provided the election analysis as per the deliverables. The election results are contained in the file
 ## Challenge summary
+
+The election results are contained in the "analysis" folder and is named "election_analysis.txt". The same output can be seen in the screen shot below, which was also a requirement of this analysis.
+
+![Election Results](Resources/Screen_output.png)
+
