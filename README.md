@@ -35,12 +35,14 @@ The resultant analysis of the election is as follows:
 - The winner of the election was:
   - Diana DeGette
 
-## Challenge Overview
+## Election Overview
 
-As can be seen by the about election summary results this program provided the election analysis as per the deliverables. The election results are contained in the file
-## Challenge summary
+As can be seen by the above election results this program was able to provide the election analysis and produce the required deliverables. The election results are contained in the "analysis" folder and is named "election_analysis.txt". The same output can be seen in the screen shot below, which was also a requirement of this analysis.
 
-The election results are contained in the "analysis" folder and is named "election_analysis.txt". The same output can be seen in the screen shot below, which was also a requirement of this analysis.
+![Election Results](Resources/Screenshot.png)
 
-![Screen Output](Resources/Screen_Output.png)
+## Election Summary
+
+Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
 
