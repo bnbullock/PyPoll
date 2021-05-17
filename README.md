@@ -37,7 +37,7 @@ The resultant analysis of the election is as follows:
 
 ## Election Overview
 
-As can be seen by the above election results this program was able to provide the election analysis and produce the required deliverables. The printable election results are located in the "analysis" folder and named "election_analysis.txt". As we can see from the screen capture below, duplicate results are also printed to the terminal window for quick review once processed.
+As can be seen by the above election results this program was able to provide the election analysis and produce the required deliverables. The printable election results are located in the "analysis" folder and named "election_analysis.txt". Also, the screen capture image below provides duplicate execution results printed to the terminal window for quick review.
 
 ![Election Results](Resources/Screenshot.png)
 
