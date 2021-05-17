@@ -43,6 +43,6 @@ As can be seen by the above election results this program was able to provide th
 
 ## Election Summary
 
-Once we can determine the source data is secure from tampering, reliable and verifiable the script does a great job at processing the results. The outputs are repeatable and can be trusted to produce the same results next year or in other elections. We are very much able to account for every single ballot ID and cross check the data by counties and by candidates, achieving the same totals.
+Once we can determine the input data source is secure from tampering, reliable and verifiable the script does a great job at processing the results. The outputs are repeatable and can be trusted to produce the same results next year or in other elections. We are very much able to account for every single ballot ID and cross check the data by counties and by candidates, achieving the same totals.
 
-Further, we can adjust the script to get more specific results. For example we can drill down one level more, for each candidate we can determine the vote distribution by county. Conversely, we can can also perform county vote distribution reporting by candidate. I believe the script improves the security of our election infrastructure and gives us verifiable results now and in the future.
+Further, we can adjust the script to get more specific results. For example we can drill down one level more, for each candidate we can determine the vote distribution by county. Conversely, we can can also perform county vote distribution reporting by candidate. Both of these additions can give us a closer look at the voting patterns of counties. I believe the script improves the security of our election infrastructure and gives us verifiable results now and in the future.
